@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6ae61a8b001d222722a06596",
+    "name": "Trending Dramas",
+    "slug": "trending-dramas",
+    "showOnHomepage": true,
+    "createdAt": "2026-10-31T16:42:51.388Z"
+  },
+  {
+    "_id": "6ae61a8b001d222722a06597",
+    "name": "Romance & Thriller",
+    "slug": "romance-thriller",
+    "showOnHomepage": true,
+    "createdAt": "2026-10-31T16:42:51.409Z"
+  }
+]

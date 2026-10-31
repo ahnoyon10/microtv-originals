@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "6ae61a8b001d222722a06599",
+    "id": "6ae61a8b001d222722a06599",
+    "seriesId": "6ae61a8b001d222722a06598",
+    "episodeInSeason": 1,
+    "title": "Episode 1",
+    "duration": 60,
+    "videoSources": [
+      {
+        "quality": "1080p",
+        "url": "/uploads/videos/ek-ladki-deewani-si-ep1.mp4"
+      }
+    ],
+    "subtitles": [],
+    "views": 375,
+    "createdAt": "2026-10-31T16:42:51.457Z"
+  },
+  {
+    "_id": "6ae61a8b001d222722a0659a",
+    "id": "6ae61a8b001d222722a0659a",
+    "seriesId": "6ae61a8b001d222722a06598",
+    "episodeInSeason": 2,
+    "title": "Episode 2",
+    "duration": 60,
+    "videoSources": [
+      {
+        "quality": "1080p",
+        "url": "/uploads/videos/ek-ladki-deewani-si-ep2.mp4"
+      }
+    ],
+    "subtitles": [],
+    "views": 344,
+    "createdAt": "2026-10-31T16:42:51.457Z"
+  },
+  {
+    "_id": "6ae61a8b001d222722a0659b",
+    "id": "6ae61a8b001d222722a0659b",
+    "seriesId": "6ae61a8b001d222722a06598",
+    "episodeInSeason": 3,
+    "title": "Episode 3",
+    "duration": 60,
+    "videoSources": [
+      {
+        "quality": "1080p",
+        "url": "/uploads/videos/ek-ladki-deewani-si-ep3.mp4"
+      }
+    ],
+    "subtitles": [],
+    "views": 428,
+    "createdAt": "2026-10-31T16:42:51.458Z"
+  },
+  {
+    "_id": "6ae61a8b001d222722a0659c",
+    "id": "6ae61a8b001d222722a0659c",
+    "seriesId": "6ae61a8b001d222722a06598",
+    "episodeInSeason": 4,
+    "title": "Episode 4",
+    "duration": 60,
+    "videoSources": [
+      {
+        "quality": "1080p",
+        "url": "/uploads/videos/ek-ladki-deewani-si-ep4.mp4"
+      }
+    ],
+    "subtitles": [],
+    "views": 179,
+    "createdAt": "2026-10-31T16:42:51.458Z"
+  },
+  {
+    "_id": "6ae61a8b001d222722a0659d",
+    "id": "6ae61a8b001d222722a0659d",
+    "seriesId": "6ae61a8b001d222722a06598",
+    "episodeInSeason": 5,
+    "title": "Episode 5",
+    "duration": 60,
+    "videoSources": [
+      {
+        "quality": "1080p",
+        "url": "/uploads/videos/ek-ladki-deewani-si-ep5.mp4"
+      }
+    ],
+    "subtitles": [],
+    "views": 468,
+    "createdAt": "2026-10-31T16:42:51.458Z"
+  }
+]

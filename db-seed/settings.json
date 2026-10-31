@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "general",
+    "isLicenseActive": true,
+    "licenseKey": "MICROTV-ORIGINALS-ENTERPRISE-KEY",
+    "seriesUrlFormat": "hash",
+    "showCopyright": true,
+    "siteName": "Micro TV Originals",
+    "siteUrl": "http://localhost:3000",
+    "watermarkEnabled": true,
+    "watermarkOpacity": 80,
+    "watermarkPosition": "top-right",
+    "contactEmail": "mdafzalhossenn@gmail.com",
+    "supportEmail": "mdafzalhossenn@gmail.com"
+  },
+  {
+    "_id": "mobile",
+    "admobAppId": "ca-app-pub-3940256099942544~3347511713",
+    "admobRewardedEnabled": true,
+    "admobRewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "admobRewardedLimit": 10,
+    "adsProvider": "multi",
+    "androidPackageName": "com.microtv.originals",
+    "androidPlayStoreUrl": "https://play.google.com/store/apps/details?id=com.microtv.originals",
+    "apiKey": "microtv-originals-dev-key-2026",
+    "applovinRewardedEnabled": true,
+    "applovinRewardedId": "applovin_rewarded_test",
+    "facebookRewardedEnabled": true,
+    "facebookRewardedId": "facebook_rewarded_test",
+    "shareLandingTitle": "Watch {title} on Micro TV Originals"
+  },
+  {
+    "_id": "monetization",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "episodeCost": 20,
+    "isCoinsActive": true
+  },
+  {
+    "_id": "rewards",
+    "dailyRewards": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70
+    ],
+    "isEnabled": true
+  },
+  {
+    "_id": "admin",
+    "displayName": "Md Afzal Hossen",
+    "email": "mdafzalhossenn@gmail.com",
+    "passwordAlgorithm": "pbkdf2-sha512",
+    "passwordHash": "75dc522ae222a071ddd283e9488ba611808d3b96637839d32dba3960524cc40e0a80487f7b2d933a6f2d1105c65c32dbf441011ea7ba64122d8c5ece0276868d",
+    "passwordSalt": "4d882b0f2d1dde85b863867ac9d5695c",
+    "username": "admin"
+  },
+  {
+    "_id": "video-security",
+    "createdAt": "2026-10-31T16:06:42.001Z",
+    "secret": "d41f66f240e96156e7cb6259868c9ef3e70a3757a51734cf3f9df5d8e472422a",
+    "updatedAt": "2026-10-31T16:06:42.001Z"
+  },
+  {
+    "_id": "plugins",
+    "videoProtectionEnabled": false
+  }
+]
